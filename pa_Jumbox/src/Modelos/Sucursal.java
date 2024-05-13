@@ -1,3 +1,4 @@
+package Modelos;
 
 public class Sucursal {
 	private int id_sucursal;

@@ -1,3 +1,4 @@
+package Modelos;
 
 public interface Validar {
 	
