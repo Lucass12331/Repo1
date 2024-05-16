@@ -7,6 +7,7 @@ import Modelos.Reporte;
 public interface ReportRepository {
 
 	//prototipos de metodos 
+	
     List<Reporte> getAllUsers(); // llama a todos los usuarios de la bdd
     
     Reporte getUserById(int id); //llama solo a uno, por su id
