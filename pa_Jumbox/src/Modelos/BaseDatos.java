@@ -1,3 +1,4 @@
+package Modelos;
 import java.util.LinkedList;
 
 public class BaseDatos {

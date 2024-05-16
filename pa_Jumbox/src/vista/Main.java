@@ -1,5 +1,16 @@
+package vista;
 import javax.swing.ImageIcon;
 import javax.swing.JOptionPane;
+
+import Modelos.Administrador;
+import Modelos.Almacenista;
+import Modelos.BaseDatos;
+import Modelos.Cliente;
+import Modelos.Deposito;
+import Modelos.Gerente;
+import Modelos.Producto;
+import Modelos.Sucursal;
+import Modelos.Venta;
 
 public class Main {
 
@@ -56,6 +67,7 @@ public class Main {
         
         //
      
+        System.out.println("a");
         
     }
 }
