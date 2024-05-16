@@ -17,6 +17,7 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 	
+		
 		BaseDatos bd = new BaseDatos();
 		
 		bd.getAlmacenistas().add(new Almacenista(2, "Ana", "López"));
